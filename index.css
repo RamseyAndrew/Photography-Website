@@ -1,3 +1,4 @@
+
 /* General Reset and Font Setup */
 * {
   margin: 0;
@@ -8,7 +9,7 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: turquoise;
-  color:black;
+  color: black;
   line-height: 1.6;
   padding: 0 1rem;
 }
@@ -109,6 +110,7 @@ form button {
 form button:hover {
   background-color: #333;
 }
+
 button {
   background-color: #333;
   color: white;
@@ -120,17 +122,11 @@ button {
 }
 
 button:hover {
-  background-color: #555;     /* Slight color change on hover */
-  transform: scale(1.05);     /* Slight zoom in */
-  cursor: pointer;            /* Show pointer */
-}
-button:hover {
   background-color: #555;
   transform: scale(1.05);
   cursor: pointer;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
 }
-  
 
 /* Footer */
 footer {
