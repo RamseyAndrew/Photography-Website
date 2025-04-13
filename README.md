@@ -28,8 +28,7 @@ Coming soon on GitHub Pages...
 ## 🛠 Technologies Used
 
 - **HTML** – for page structure  
-- **CSS** – for layout and styling  
-- **JavaScript** – light scripting for interactivity  
+- **CSS** – for layout and styling   
 - **Font Awesome** – for social and UI icons  
 - **Visual Studio Code** – as the code editor  
 - **Git Bash** – for version control and pushing to GitHub  
