@@ -9,8 +9,8 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: turquoise;
-  color: black;
-  line-height: 1.6;
+  color: teal
+  line-height 1.6;
   padding: 0 1rem;
 }
 
@@ -163,4 +163,10 @@ footer {
   .images {
     flex-direction: column;
   }
+}
+body {
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
